@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @minchiguerre
-- 👀 I’m interested em ser um grande tecnico em informatica
-- 🌱 I’m currently learning informatica 
-- 💞️ I’m looking to collaborate em ser um tecnico em informatica 
-- 📫 How to reach me chama no instagram
+- 👀 I’m interestedin being a great computer technician
+- 🌱 I’m currently learning Computing
+- 💞️ I’m looking to collaboratein being a great citizen and technician in my role.  
+- 📫 How to reach call me on instagram @minchiguerre__
 
 
 <!---
